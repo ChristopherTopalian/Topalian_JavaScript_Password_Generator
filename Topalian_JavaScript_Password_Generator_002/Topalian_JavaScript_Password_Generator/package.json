@@ -1,0 +1,12 @@
+{
+    "name": "topalian-javascript-password-generator",
+
+    "version": "2.0.0",
+
+    "main": "Topalian_JavaScript_Password_Generator.html",
+
+    "window": {
+        "width": 450,
+        "height": 255
+    }
+}
